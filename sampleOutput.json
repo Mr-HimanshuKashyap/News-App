@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Ukraine war latest: Russia 'massively attacking' country - Kyiv official",
+      "description": "Water supplies are disrupted in Kyiv and Kharkiv is without power, authorities say, amid the latest wave of strikes.",
+      "url": "http://www.bbc.co.uk/news/live/world-europe-63998267",
+      "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+      "publishedAt": "2022-12-16T09:22:25.6029481Z",
+      "content": "Russias latest barrage of\r\nmissiles have hit multiple cities across Ukraine, with critical infrastructure\r\nappearing to be, again, the main target. \r\nIn Kyiv, the authorities described it\r\nas a massi… [+1204 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "US-China chip war: How the technology dispute is playing out",
+      "description": "Washington announced some of the broadest export controls on chipmakers in October.",
+      "url": "http://www.bbc.co.uk/news/business-63995570",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13904/production/_128023108_gettyimages-1347289404-1.jpg",
+      "publishedAt": "2022-12-16T08:37:24.5034977Z",
+      "content": "The US is rapidly ramping up efforts to try to hobble China's progress in the semiconductor industry - vital for everything from smartphones to weapons of war.\r\nIn October, Washington announced some … [+5511 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Russia launches renewed strikes across Ukraine",
+      "description": "Power is down in Kharkiv and blasts are reported in several cities as alerts go off across the country.",
+      "url": "http://www.bbc.co.uk/news/world-europe-63997749",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1507E/production/_128024168_49e269671435b17a9583f9bc315e919e8b2066710_72_5303_29831000x563.jpg",
+      "publishedAt": "2022-12-16T08:22:18.9244731Z",
+      "content": "Russian forces carried out missile and drone attacks across Ukraine on Friday, targeting the capital Kyiv, Kharkiv in the north, Odesa in the south and the central city of Kryvih Rih.\r\nStrikes on Ukr… [+1202 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "US charges China student with stalking peer who put up pro-democracy fliers",
+      "description": "The music student is charged with threatening the girl for posting fliers urging more freedom in China.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-63967785",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1837/production/_127999160_df15fae9b92fb4529a3c66e26d30c5eca4c5f637.jpg",
+      "publishedAt": "2022-12-16T04:07:21.646068Z",
+      "content": "An overseas Chinese student in the US has been charged with stalking and threatening another Chinese student who took part in pro-democracy activism on their campus.\r\nUS prosecutors say Xiaolei Wu, 2… [+3222 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Canadian discount store Zellers hopes to lure shoppers with nostalgia",
+      "description": "Zellers, an iconic but failed retail chain, will soon be revived. Can nostalgia rejuvenate the brand?",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-63924365",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11A66/production/_127949227_gettyimages-165438781.jpg",
+      "publishedAt": "2022-12-16T00:07:22.0074187Z",
+      "content": "Zellers, a once-popular, low-cost department store in Canada, was forced to shut its doors 10 years ago. It will soon make a comeback, with hopes that shoppers' nostalgia for the brand will revive it… [+6583 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Two boaters and a dog rescued after 10 days at sea",
+      "description": "After their boat ran out of fuel, Kevin, Joe and Minnie the poodle needed a \"miracle\".",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-63911755",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1700E/production/_128022249_p0dpkmy2.jpg",
+      "publishedAt": "2022-12-15T22:52:21.8934758Z",
+      "content": "Buy now, pay later schemes: What you need to know. Video, 00:01:00Buy now, pay later schemes: What you need to know"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Claudine Gay: Harvard University picks first black president",
+      "description": "Dr Claudine Gay, the daughter of Haitian immigrants, is the second woman to head the elite Massachusetts college.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-63990177",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1654F/production/_128017419_gettyimages-1245637497.jpg",
+      "publishedAt": "2022-12-15T22:37:22.1124297Z",
+      "content": "Harvard University has named the first black person to lead the Ivy League university. \r\nThe college announced that Dr Claudine Gay, who is a dean at Harvard and a democracy scholar, would serve as t… [+1873 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Ukraine war: US Patriot missiles would comfort Kyiv and alarm Moscow",
+      "description": "They're not a silver bullet, but they are extremely effective and expensive.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-63994648",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C580/production/_128006505_mediaitem128006500.jpg",
+      "publishedAt": "2022-12-15T22:37:19.2069028Z",
+      "content": "Rumours have been swirling these past few weeks that Ukraine will get advanced US-built Patriot defence missile systems to try to counter Russian missile and drone attacks.\r\nSince the start of the wa… [+2712 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Thousands of unedited government JFK assassination files released",
+      "description": "President Joe Biden orders 16,000 files released, but said some sensitive files must remain secret.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-63994729",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3144/production/_128021621_gettyimages-515350792.jpg",
+      "publishedAt": "2022-12-15T21:22:21.9567815Z",
+      "content": "The White House has ordered the release of documents on the murder of US President John F Kennedy, but said some files will stay sealed. \r\nSome 12,879 documents were posted online on Thursday after P… [+2201 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Six states without power as deadly winter storm and tornadoes hit US",
+      "description": "Thousands of people remain without power after a devastating storm system sweeps across the US.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-63989303",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15F5F/production/_128015998_downedpowerlines.jpg",
+      "publishedAt": "2022-12-15T15:37:19.3522836Z",
+      "content": "A fierce winter storm has left a trail of destruction across the southern US, devastating communities and killing three people in Louisiana. \r\nWeather-related power outages were reported across six s… [+2895 chars]"
+    }
+  ]
+}
